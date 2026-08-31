@@ -1,0 +1,10 @@
+{
+  "description": "Creates custom frontend designs from user-provided details, enabling efficient and tailored web interface development for designers and developers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
